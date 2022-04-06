@@ -10,7 +10,7 @@ game type: ARPG
 
 game top online: 4,000,000
 
-game link: https://www.taptap.com/app/6529?hreflang=zh_CN
+game link: <a href="https://www.taptap.com/app/6529?hreflang=zh_CN"><div><img src="/gongfu panda.png"></div></a>
 
 position: Server Program Director
 
