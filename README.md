@@ -30,7 +30,7 @@ game type: digital collectible card game
 
 game top onine: 1,000,000
 
-game link: https://www.taptap.com/app/45987
+game link: <a href="https://www.taptap.com/app/45987"><div><img src="/logo.webp" width="100" height="50"></div></a>
 
 position: Senior Server Programmer
 
