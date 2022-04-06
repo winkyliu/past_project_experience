@@ -8,6 +8,8 @@ game name: KungFu Panda
 
 game type: ARPG
 
+game top online: 4,000,000
+
 game link: https://www.taptap.com/app/6529?hreflang=zh_CN
 
 position: Server Program Director
@@ -22,6 +24,8 @@ game name: top deck
 
 game type: digital collectible card game
 
+game top onine: 1,000,000
+
 game link: https://www.taptap.com/app/45987
 
 position: Senior Server Programmer
@@ -35,6 +39,10 @@ position description:
 project name: skynet
 
 project type: game server engine
+
+project users:
+
+<a href=""><div><img src=""></div></a>
 
 project link: https://github.com/cloudwu/skynet
 
