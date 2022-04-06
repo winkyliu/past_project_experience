@@ -8,7 +8,7 @@ game name: KungFu Panda
 
 game type: ARPG
 
-game top online: 4,000,000
+peak concurrent players: 4,000,000
 
 game link: <a href="https://www.taptap.com/app/6529?hreflang=zh_CN"><div><img src="/gongfu panda.png" width="50" height="50"></div></a>
 
@@ -28,7 +28,7 @@ game name: Top deck
 
 game type: digital collectible card game
 
-game top onine: 1,000,000
+peak concurrent players: 1,000,000
 
 game link: <a href="https://www.taptap.com/app/45987"><div><img src="/logo.webp" width="100" height="50"></div></a>
 
