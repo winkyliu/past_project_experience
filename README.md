@@ -16,15 +16,15 @@ position: Server Program Director
 
 position description:
 
-1. implement and maintain online server functions
+1. Implement and maintain online server functions
 
-2. lead a developing team(3 persons)
+2. Lead a developing team(3 persons)
 
 
 ## 2016-2018 NetEase Game Inc. (Nasdaq: NTES)
 
 
-game name: top deck
+game name: Top deck
 
 game type: digital collectible card game
 
@@ -36,15 +36,15 @@ position: Senior Server Programmer
 
 position description:
 
-1. implement and maintain code of daily and monthly activities inside the game
+1. Implement and maintain code of daily and monthly activities inside the game
 
-2. optimize the rendering of the game client application
+2. Optimize the rendering of the game client application
 
 
 ## 2018-2019 Alibaba Group (Nasdaq: BABA)
 
 
-project name: skynet
+project name: Skynet
 
 project type: game server engine
 
@@ -60,8 +60,8 @@ position: Core Member of engine development and maintenance Group
 
 position description:
 
-1. implement and maintain core functions of the engine
+1. Implement and maintain core functions of the engine
 
-2. train game programmers in the whole company how to use the server engine
+2. Train game programmers in the whole company how to use the server engine
 
-3. integrate automatic DevOps functions into the engine
+3. Integrate automatic DevOps functions into the engine
