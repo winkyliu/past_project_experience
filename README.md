@@ -51,8 +51,8 @@ project type: game server engine
 project users:
 
 <a href="https://sgzzlb.lingxigames.com/"><div><img src="/sanguo.jpeg" width="50" height="50"></div></a>
-<a href=""><div><img src=""></div></a>
-<a href=""><div><img src=""></div></a>
+<a href="https://sgzhx.lingxigames.com/"><div><img src="/sghxdl.jpeg" width="100" height="50"></div></a>
+<a href="https://fzdl.zlongame.com/"><div><img src="/fzdl.jpeg" width="100" height="50"></div></a>
 
 project link: https://github.com/cloudwu/skynet
 
