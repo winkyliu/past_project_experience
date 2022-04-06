@@ -1,7 +1,7 @@
 # past_project_experience
 list of my past project experience in China
 
-## 2014-2016 NetEase Game Inc.
+## 2014-2016 NetEase Game Inc. (Nasdaq: NTES)
 
 
 game name: KungFu Panda
@@ -21,7 +21,7 @@ position description:
 2. lead a developing team(3 persons)
 
 
-## 2016-2018 NetEase Game Inc.
+## 2016-2018 NetEase Game Inc. (Nasdaq: NTES)
 
 
 game name: top deck
@@ -41,7 +41,7 @@ position description:
 2. optimize the rendering of the game client application
 
 
-## 2018-2019 Alibaba Group
+## 2018-2019 Alibaba Group (Nasdaq: BABA)
 
 
 project name: skynet
