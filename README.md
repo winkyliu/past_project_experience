@@ -16,6 +16,10 @@ position: Server Program Director
 
 position description:
 
+1. implement and maintain online server functions
+
+2. lead a developing team(3 persons)
+
 
 ## 2016-2018 NetEase Game Inc.
 
@@ -31,6 +35,10 @@ game link: https://www.taptap.com/app/45987
 position: Senior Server Programmer
 
 position description:
+
+1. implement and maintain code of daily and monthly activities inside the game
+
+2. optimize the rendering of the game client application
 
 
 ## 2018-2019 Alibaba Group
@@ -49,3 +57,9 @@ project link: https://github.com/cloudwu/skynet
 position: Core Member of engine development and maintenance Group
 
 position description:
+
+1. implement and maintain core functions of the engine
+
+2. train game programmers in the whole company how to use the server engine
+
+3. integrate automatic DevOps functions into the engine
